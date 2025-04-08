@@ -7,3 +7,4 @@
 [View my resume](https://github.com/linceBLA/Resume/raw/main/resume-GITHUB_04-2025.pdf)
 
 
+[📄 View my resume](https://github.com/linceBLA/Resume/blob/main/resume-GITHUB_04-2025.pdf)
